@@ -1,0 +1,1 @@
+A time series analysis for average temperatures in world and in Brazil, ARIMA, SARIMA and SARIMAX and XG Boost models to predict temperature.
