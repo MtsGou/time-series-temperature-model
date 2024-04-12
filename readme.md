@@ -1,6 +1,6 @@
 # TIME SERIES ANALYSIS AND FORECAST MODELS - WORLD AND BRAZIL
 
-**Data science repository with files and codes used to analyze temperatures in Brazil and in the world overall, since 1750. Also created models to predict temperatures in a near future.**
+**Data science repository with files and codes used to analyze temperatures in Brazil and in the world overall, since 1750. Also created models to predict temperatures in a near future. This project consists of time series analysis and models such as ARIMA, SARIMAX as well as ML model XG Boost Regressor.**
 
 ----
 
@@ -35,6 +35,8 @@ Some packages and APIs were used: [Pandas](https://pandas.pydata.org/), [Matplot
 
 ![Temperaturas MA](/plots/average_temp_br_MA.png)
 
+
+
 ### World
 
 ![Temperaturas world](/plots/average_temp_world.png)
@@ -43,7 +45,9 @@ Some packages and APIs were used: [Pandas](https://pandas.pydata.org/), [Matplot
 
 ![Temperaturas world MA](/plots/average_temp_world_MA.png)
 
+
 ----
+
 
 ## Forecast temperatures in Brazil
 
